@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestCourse</string>
+    
+    <string name="banner_ad">Banner ad</string>
+    <string name="interstitial_ad">Interstitial ad</string>
+
+    <string name="interstitial_load">Load interstitial</string>
+    <string name="interstitial_not_ready">Interstitial not ready</string>
+    <string name="interstitial_loading">Loading interstitial</string>
+    <string name="interstitial_show">Show interstitial</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
